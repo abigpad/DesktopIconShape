@@ -1,4 +1,4 @@
-# DesktopIconShape
+# DesktopIconShape（仅用于windows， win10以下版本未经测试）
 将桌面上的图标摆成特定的图案，
 也可以保存图标位置，桌面图标打乱后，随时可以恢复图标位置。
 
